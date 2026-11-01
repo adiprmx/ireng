@@ -15,7 +15,7 @@ Discord community bot for the ADIP RMX server — moderation, conversational AI,
 
 ## By the numbers
 
-- 50,732 intents (October 2026)
+- 50,732 intents (November 2026)
 - 24/7 uptime with automatic crash recovery
 - Built phone-only — no laptop, no desktop
 
